@@ -1,0 +1,13 @@
+footer {
+    color: #aaa; background-color: #2f2f2f;
+    position: absolute;
+    left: 0;
+    right: 0;
+    padding: 2%;
+    z-index: 999;
+}
+
+footer *{
+    align-items: center;
+    justify-content: center;
+}
